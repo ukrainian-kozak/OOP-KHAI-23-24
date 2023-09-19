@@ -1,0 +1,3 @@
+/home/vsevolod/oop-khai-23_24/bakutov_lab2/build/CMakeFiles/a.out.dir
+/home/vsevolod/oop-khai-23_24/bakutov_lab2/build/CMakeFiles/edit_cache.dir
+/home/vsevolod/oop-khai-23_24/bakutov_lab2/build/CMakeFiles/rebuild_cache.dir
